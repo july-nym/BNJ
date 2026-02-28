@@ -1,5 +1,5 @@
 // cypress/e2e/login_inject_token.cy.js
-describe("SPA Dev Login with Token", () => {
+describe("BNJ CEO Dashboard - UI Automation", () => {
   beforeEach(() => {
     cy.visit("/ceo-dashboard"); // otomatis pakai baseUrl dari config
 
