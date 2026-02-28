@@ -1,4 +1,4 @@
-describe('Dashboard Page', () => {
+describe('BNJ Operation Dashboard - UI Automation', () => {
     beforeEach(() => {
         cy.visit('/claims'); // otomatis pakai baseUrl dari config
 
